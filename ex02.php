@@ -14,7 +14,7 @@
     $presentation = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en formation de " . $formation . ".<br>";
     echo $presentation;
     $presentation .= " J'apprends PHP.";
-    echo $presentation . "<br>";
+    echo $presentation . "<br><br>";
 
     $note = 12;
     $Note = 16;

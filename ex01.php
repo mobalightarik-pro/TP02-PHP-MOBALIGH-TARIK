@@ -2,20 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Exercice 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercice1</title>
 </head>
 <body>
-
+    <title>Exercice 1</title>
     <?php
-    $nom = "Mobaligh";
-    $prenom = "Tarik";
-    $groupe = "Groupe 4";
-    
-    echo "Nom : " . $nom . "<br>";
-    echo "Prénom : " . $prenom . "<br>";
-    echo "Groupe : " . $groupe . "<br>";
+        //afficher le message
+        echo "Bienvenue dans mon TP PHP<br>";
+        /*
+        afficher le nom et le prénom de l'étudiant ainsi que son groupe
+        */
+        echo "je m'appelle Mobaligh Tarik et mon groupe est 4<br>";
     ?>
-    <p><?= "Ceci est la dernière phrase affichée avec la syntaxe courte." ?></p>
-
+    <?= "hello world" ?>
 </body>
 </html>
