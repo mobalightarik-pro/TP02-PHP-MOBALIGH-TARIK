@@ -8,7 +8,6 @@
 <body>
     <title>Exercice 1</title>
     <?php
-        //afficher le message
         echo "Bienvenue dans mon TP PHP<br>";
         echo "je m'appelle Mobaligh Tarik et mon groupe est 4<br>";
     ?>
