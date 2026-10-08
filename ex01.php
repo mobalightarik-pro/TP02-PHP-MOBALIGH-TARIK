@@ -10,9 +10,6 @@
     <?php
         //afficher le message
         echo "Bienvenue dans mon TP PHP<br>";
-        /*
-        afficher le nom et le prénom de l'étudiant ainsi que son groupe
-        */
         echo "je m'appelle Mobaligh Tarik et mon groupe est 4<br>";
     ?>
     <?= "hello world" ?>
