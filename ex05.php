@@ -1,5 +1,5 @@
 <?php
-$moyeen = 21;
+$moyeen = 10;
 if($moyeen <0 || $moyeen>20){
     echo"Note non valide";
 }else{
