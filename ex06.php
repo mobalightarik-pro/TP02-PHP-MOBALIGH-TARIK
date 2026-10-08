@@ -38,6 +38,6 @@
             echo "décembre";
             break;
         default:
-            echo "nombre de mois invalide";
+            echo "Nombre de mois invalide";
     }
 ?>
