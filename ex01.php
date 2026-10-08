@@ -12,5 +12,6 @@
         echo "je m'appelle Mobaligh Tarik et mon groupe est 4<br>";
     ?>
     <?= "hello world" ?>
+    
 </body>
 </html>
