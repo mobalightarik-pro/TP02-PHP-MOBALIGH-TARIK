@@ -12,6 +12,7 @@
         $age = 20;
         $formation = "informatique";
         $presentation = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en formation de " . $formation . ".<br>";
+        $presentation .="j'pprends le PHP <br>";
         echo $presentation;
         $note=12;
         $Note=16;
