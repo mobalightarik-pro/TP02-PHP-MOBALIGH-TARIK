@@ -1,5 +1,5 @@
 <?php
-echo "<h2> Nombres pairs de 0 à 20</h2>";
+echo "<h2> Nombres pairs de 0 a 20</h2>";
 $i=0;
 while($i<=20){
     if($i%2==0){
@@ -25,7 +25,7 @@ do{
     echo "la valeur de j est $j pour le do-while <br>";
     $j++;
 }while($j<5);
-echo"$j from do-while <br>";
+echo"$j from do while <br>";
 
 
 
